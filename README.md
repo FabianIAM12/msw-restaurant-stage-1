@@ -4,7 +4,7 @@
 
 ## Project Overview
 
-For the **Restaurant Reviews** projects, i incrementally converted a static webpage to a mobile-ready web application. The static design that lacked accessibility and i converted the design to be responsive on different sized displays and accessible for screen reader use. I also added a service worker to provide a seamless offline experience for your users.
+For the **Restaurant Reviews** projects, i incrementally converted a static webpage to a mobile-ready web application. The static design that lacked accessibility and i converted the design to be responsive on different sized displays and accessible for screen reader use. I also added a service worker to provide a seamless offline experience for the users.
 
 ### How to start the project?
 
