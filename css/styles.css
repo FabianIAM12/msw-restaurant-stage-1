@@ -54,8 +54,9 @@ article, aside, canvas, details, figcaption, figure, footer, header, hgroup, men
   padding-top: 40px;
   width: 100%;
   height: 80px;
-  background-color: #252831;
   text-align:center;
+
+  background: radial-gradient(ellipse at bottom, #5091DD 0%, #030617 100%);
 }
 #head h1 {
   margin: auto;
@@ -119,7 +120,7 @@ article, aside, canvas, details, figcaption, figure, footer, header, hgroup, men
 .filter-options {
   width: 100%;
   height: 86px;
-  background-color: orange;
+  background: radial-gradient(ellipse at top, #5091DD 0%, #030617 100%);
   align-items: center;
 
   border-style: solid;
@@ -202,6 +203,7 @@ article, aside, canvas, details, figcaption, figure, footer, header, hgroup, men
   text-align: center;
   text-decoration: none;
   text-transform: uppercase;
+  background: radial-gradient(ellipse at top, #5091DD 0%, #030617 100%);
 }
 
 /* ====================== Restaurant Details ====================== */
@@ -242,7 +244,7 @@ article, aside, canvas, details, figcaption, figure, footer, header, hgroup, men
   margin: 10px 0px;
 }
 #restaurant-cuisine {
-  background-color: #333;
+  background: radial-gradient(ellipse at top, #5091DD 0%, #030617 100%);
   color: #ddd;
   font-size: 12pt;
   font-weight: 300;
